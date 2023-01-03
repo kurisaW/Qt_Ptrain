@@ -1,7 +1,7 @@
 ## 详细文件点击此处[下载](https://pan.baidu.com/s/1MmzII7Xke0S-AMzI2RGXIQ?pwd=wdza)
 
 
-
+## 系统架构说明
 #### Main.cpp：
 
 * ChooseDig:初始对话框（选择对战模式）
